@@ -1,0 +1,16 @@
+[
+  {
+    "code": "FP0001",
+    "name": "Glass Vase Small",
+    "image": "https://flowersystem-lb.github.io/inventorysystem/photos/fp0001.jpg",
+    "zone": "A1",
+    "availability": "Available"
+  },
+  {
+    "code": "FP0002",
+    "name": "Glass Bowl",
+    "image": "https://flowersystem-lb.github.io/inventorysystem/photos/fp0002.jpg",
+    "zone": "B2",
+    "availability": "Available"
+  }
+]
