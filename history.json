@@ -46,5 +46,21 @@
     "type": "buy",
     "note": "importer",
     "category": "glass"
+  },
+  {
+    "date": "15-4-2029",
+    "code": "FP0052",
+    "qty": 39,
+    "type": "buy",
+    "note": "importer",
+    "category": "glass"
+  },
+  {
+    "date": "15-4-2030",
+    "code": "FP0053",
+    "qty": 40,
+    "type": "buy",
+    "note": "importer",
+    "category": "glass"
   }
 ]
