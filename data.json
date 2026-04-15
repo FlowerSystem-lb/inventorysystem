@@ -991,7 +991,7 @@
     "code": "FP0053",
     "name": "Wood",
     "category": "water",
-    "size": null,
+    "size": "50cm",
     "quantity": "0",
     "color": null,
     "price": null,
